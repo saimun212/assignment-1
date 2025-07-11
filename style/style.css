@@ -120,13 +120,41 @@ nav ul li{
   font-size: 42px;
 }
 
-/****image screen***/
-.img-screen{
+.skill-container{
     display: flex;
+    background-color: #FFFFFF;
+    margin: 20px 150px;
+    border: 4px;
+    box-shadow: 20px 20px 30px;
+    border-radius: 10px;
+   
+
+}
+.skill{
+    margin: 60px;
+}
+.li-1{
+    font-size: 13px;
 }
 
-.skills-container{
-    display: flex;  
-    background-color: #4E47FF;
+.user-1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700px;
+}
+.user-2{
+    text-align: center;
+}
+
+.content-1{
+    background-color:rgb(207, 224, 224) ;
+}
+
+.bg-1{
+    height: 364.77px;
+    width: 840px;
+    border-radius: 10px;
+    justify-content: space-between;
+
 }
 
