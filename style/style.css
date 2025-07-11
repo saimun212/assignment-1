@@ -1,3 +1,4 @@
+
 header{
     background-image: url(../Assets/Hero-bg.png);
     margin: 2px ;
@@ -85,3 +86,47 @@ nav ul li{
     box-shadow: 10px 10px 10px;
     border-radius: 15px;
 }
+ .header-content{
+    background-color: #c3baba;
+    margin: 40px 300px;
+    padding: 50px 80px;
+    border-radius: 10px;
+
+ }
+
+ .div-item{
+    display: flex; 
+    text-align: center;
+    margin: 20px 150px;
+    color: #FFFFFF;
+ }
+ .same-color{
+  color: #434FFF;
+  margin: 20px 30px;
+  
+    
+ }
+
+.user{
+    text-align: center;
+}
+
+.raleway-simple {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: bold;
+  font-size: 42px;
+}
+
+/****image screen***/
+.img-screen{
+    display: flex;
+}
+
+.skills-container{
+    display: flex;  
+    background-color: #4E47FF;
+}
+
