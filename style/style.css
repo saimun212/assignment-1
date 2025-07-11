@@ -62,3 +62,26 @@ nav ul li{
          padding: 12px 26px;
          border-radius: 5px;  
 }
+
+.banner{
+    display: flex ;
+    justify-content: space-between;
+    margin: 50px 150px;
+    background-color:white;
+}
+
+.banner-conten{
+         max-width: 517px;
+}
+
+.banner-title{
+    font-weight: bold;
+    font-size: 46px;
+}
+
+.baner-profile-pic{
+    width: 403px;
+    height: 302px;
+    box-shadow: 10px 10px 10px;
+    border-radius: 15px;
+}
