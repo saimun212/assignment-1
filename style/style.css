@@ -147,7 +147,10 @@ nav ul li{
 }
 
 .content-1{
-    background-color:rgb(207, 224, 224) ;
+    background-color:#e8e1e1f0 ;
+    margin: 50px 200px;
+    padding: 10px 71px;
+    
 }
 
 .bg-1{
@@ -156,5 +159,44 @@ nav ul li{
     border-radius: 10px;
     justify-content: space-between;
 
+}
+
+
+.center{
+    text-align: center;
+    margin:10px 350px;
+    background-color: #434FFF;
+    padding: 10px;
+    border-radius: 5px;
+    color: aliceblue;
+    
+}
+
+.main-2{
+    font-size: 50px;
+}
+
+.touch-button{
+    display: flex;
+    background-color: #FFFFFF;
+    margin: 30px 300px;
+    border-radius: 10px;
+    
+
+}
+
+.main-holder{
+    margin:  50px 70px;
+}
+
+.message-1{
+    padding: 20px;
+}
+
+.button-4{
+    background-color: #3f4af0;
+    padding: 7px 65px;
+    border-radius: 5px;
+    color: #ededfc;
 }
 
