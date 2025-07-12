@@ -87,7 +87,7 @@ nav ul li{
     border-radius: 15px;
 }
  .header-content{
-    background-color: #c3baba;
+    background-color: #dedee7;
     margin: 40px 300px;
     padding: 50px 80px;
     border-radius: 10px;
@@ -147,7 +147,7 @@ nav ul li{
 }
 
 .content-1{
-    background-color:#e8e1e1f0 ;
+    background-color:#FFFFFF ;
     margin: 50px 200px;
     padding: 10px 71px;
     
@@ -198,5 +198,37 @@ nav ul li{
     padding: 7px 65px;
     border-radius: 5px;
     color: #ededfc;
+}
+
+.secondary-bg{
+    background-color: #FFFFFF;
+}
+
+.section-title{
+    font-size:50px ;
+    font-weight:bold;
+   color: #434FFF;
+    
+}
+
+.section-description{
+    font-size: 30px;
+    color: azure;
+    
+}
+.about-items:hover{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(23, 126, 215);
+}
+
+.about{
+    border-radius: 10px;
+    padding: 30px 100px;
+    text-align: center;
+    margin: 10px;
+    
+   
 }
 
